@@ -1,1 +1,1 @@
-print("hello world")
+id_numbers = ["".join(random.sample("00112233445566778899", 11)) for i in range(1000)]
